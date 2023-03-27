@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
+<h1 align="left">Hi 👋, I'm Mohamed Salah</h1>
 <h2 align="center">A Professional Front-End Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
