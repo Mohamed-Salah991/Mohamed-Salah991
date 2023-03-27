@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
 <h1 align="left">Hi 👋, I'm Mohamed Salah</h1>
 <h2 align="center">A Professional Front-End Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
