@@ -1,8 +1,7 @@
-### Hi there 👋
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
 <h3 align="center">A professional frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F02%2F74%2F20%2F0274207612d515f49012c87803a9e631.gif&tbnid=kzQF-ptOrPigeM&vet=12ahUKEwjcvOjNnfz9AhXukScCHaBDCAQQMygCegUIARDxAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F407364728796427798%2F&docid=BlfeR3XUdWnZrM&w=800&h=600&q=animated%20web%20developer%20gif&hl=en&ved=2ahUKEwjcvOjNnfz9AhXukScCHaBDCAQQMygCegUIARDxAQ">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-salah991&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-salah991" /> </p>
 
@@ -13,6 +12,12 @@
 - 💬 Ask me about **JS, TS, React and Next.JS**
 
 - 📫 How to reach me **mohamed.salah6486@gmail.com**
+
+
+<h3 align="left">About me:</h3>
+<P align="left">
+  I'm Mohamed Salah, an experienced React developer with a strong foundation in HTML, CSS, and JavaScript. I hold a Udacity Nanodegree in Professional Front End Web Development and completed ITI training in web development. Currently, I am pursuing a Bachelor's degree in Computer Science and I'm in my final year. I have created several projects in my portfolio using React and other tools, such as Material UI, Bootstrap, and SEO best practices. I'm passionate about creating dynamic and responsive user interfaces that are visually appealing and user-friendly. Whether you're looking to create a stunning web application or optimize an existing one, I'm committed to delivering high-quality solutions that exceed your expectations.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
