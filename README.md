@@ -1,17 +1,20 @@
 [![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
-<h1 align="left">Hi 👋, I'm Mohamed Salah</h1>
+<h2 align="left">Hi 👋, I'm Mohamed Salah</h2>
 <h2 align="center">A Professional Front-End Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-salah991&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-salah991" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce](https://github.com/Mohamed-Salah991/E-Commerce)
+- 🔭 I’m currently working on [Airbnb-Clone](https://github.com/Mohamed-Salah991/Airbnb-Clone)
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **JS, TS, React and Next.JS**
+- 💬 Ask me about **JS, TS, React, and Next.JS**
 
-- 📫 How to reach me **mohamedsalah.dev991@gmail.com**
+- 📫 How to reach me
+  - LinkedIn: <a href="https://www.linkedin.com/in/mohamed-salah-a74b5b234/">Mohamed Salah</a>
+
+  - Email: <a href="mailto:mohamedsalah.dev991@gmail.com">mohamedsalah.dev991@gmail.com</a>
 
 
 <h3 align="left">About me:</h3>
