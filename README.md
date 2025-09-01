@@ -2,8 +2,9 @@
 <h2 align="center">A Professional Front-End Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-salah991&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-salah991" /> </p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile%20views-2472-blue" alt="Profile views" />
+</p>
 - 🔭 I’m currently working on [Airbnb-Clone](https://github.com/Mohamed-Salah991/Airbnb-Clone)
 
 - 🌱 I’m currently learning **Node JS**
