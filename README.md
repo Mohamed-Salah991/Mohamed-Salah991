@@ -1,40 +1,74 @@
-<h2 align="left">Hi 👋, I'm Mohamed Salah</h2>
-<h2 align="center">A Professional Front-End Developer</h2>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
+<h3 align="center">Software Engineer  · React · TypeScript · Next.js · Shopify</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-salah991&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-salah991" /> </p>
-
-
-
-
-
-- 💬 Ask me about **JS, TS, React, and Next.JS**
-
-- 📫 How to reach me
-  - LinkedIn: <a href="https://www.linkedin.com/in/mohamed-salah-a74b5b234/">Mohamed Salah</a>
-
-  - Email: <a href="mailto:mohamedsalah.dev991@gmail.com">mohamedsalah.dev991@gmail.com</a>
-
-
-<h3 align="left">About me:</h3>
-<P align="left">
-I'm a Front-End Developer specializing in building modern, high-performance web applications using React.js, Next.js, and TypeScript. I focus on creating scalable architectures and clean, maintainable code while delivering smooth and engaging user experiences.
-I have hands-on experience with advanced UI and animation tools like GSAP and Three.js, allowing me to build interactive, visually rich interfaces and immersive web experiences.
-I hold a Bachelor’s degree in Computer Science, along with a Udacity Nanodegree in Professional Front-End Web Development and intensive training at ITI.
-My work emphasizes performance, responsiveness, and SEO, using modern tools and best practices. I enjoy turning complex ideas into intuitive, dynamic products that provide real value to users.
-I'm always exploring new technologies and pushing my skills further, especially in areas like animation, 3D web experiences, and modern frontend architecture.
-If you’re looking for a developer who can combine strong technical skills with creative execution, I’d be happy to collaborate.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-salah991&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-salah-a74b5b234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-salah-a74b5b234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamed_salah991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed_salah991" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-salah-a74b5b234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohamedsalah.dev991@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.leetcode.com/mohamed_salah991"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+Frontend developer with 2+ years of remote experience building modern, high-performance web applications with **React, TypeScript, and Next.js**. I specialize in **Shopify development**, custom themes, theme extensions, and Shopify apps, and I'm actively expanding into full-stack work.
+
+- 🎯 Focused on scalable frontend architecture, clean code, and performance
+- ⚡ Comfortable across the Shopify ecosystem: GraphQL, theme editing/creation, and app extensions
+- 🤖 Integrating the Anthropic API into real products and automation workflows
+- 🌍 Working in **English & Arabic** · open to remote
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+</p>
+
+**Shopify & Commerce**
+<p>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Anthropic_API-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-salah991&" alt="mohamed-salah991" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-salah991&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+---
+
+<p align="center"><i>Let's build something great together.</i></p>
